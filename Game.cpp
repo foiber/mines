@@ -4,9 +4,9 @@
 
 class Game
 {
-private:
-    char field[256][256];
-    size_t width, height;
+private: //bybcuhascaqweg
+    char field[256][256]; 
+    size_t width, height; //tydtyftftdftftjygyyhjhh
 
 public:
     Game(size_t width, size_t height, size_t nmines);
