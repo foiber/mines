@@ -16,7 +16,7 @@ public:
     void countNear();
     ~Game();
 };
-
+//jtytdtdrrtddtrrdt
 Game::Game(size_t width, size_t height, size_t nmines)
 {
     this->width = width;
